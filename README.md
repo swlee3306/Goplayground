@@ -12,4 +12,4 @@
 
 1. 이 저장소를 클론합니다.
    ```bash
-   git clone 
+   git clone git@github.com:swlee3306/Goplayground.git
