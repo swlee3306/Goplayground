@@ -1,7 +1,7 @@
 package main
 
 /*
-OOD 5가지 원칙중 SOLID중 Ocp 방식
+OOD 5가지 원칙중 SOLID중  방식
 
 아래 구조 형식을 점검해보면 ocp 방식의 프로그램 구조 이다.
 만약 Report 를 만들어 보내는 프로그램을 개발한다고 가정 했을 때
